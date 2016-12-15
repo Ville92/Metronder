@@ -1,0 +1,4 @@
+Connection: SQLSTATE[HY000] [1045] Access denied for user 'nicholal'@'users.metropolia.fi' (using password: YES)
+Connection: SQLSTATE[HY000] [1045] Access denied for user 'nicholal'@'users.metropolia.fi' (using password: YES)
+Connection: SQLSTATE[HY000] [1045] Access denied for user 'nicholal'@'users.metropolia.fi' (using password: YES)
+Connection: SQLSTATE[HY000] [1045] Access denied for user 'nicholal'@'users.metropolia.fi' (using password: YES)
